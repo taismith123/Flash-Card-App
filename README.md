@@ -2,7 +2,7 @@
 ## Flashcard App
 
 ### App Description
-`TODO://` A simple flashcard app. 
+A simple flashcard app. 
 
 ### App Walk-though
 
