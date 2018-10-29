@@ -3,7 +3,7 @@
 ## Lab 2
 
 ### App Description
-More feautres implemented from last lab
+More features implemented from last lab
 
 ### App Walk-though
 
