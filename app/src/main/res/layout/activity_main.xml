@@ -37,4 +37,14 @@
         android:textSize="40sp"
         android:visibility="invisible" />
 
+    <Button
+        android:id="@+id/addButton"
+        android:layout_width="wrap_content"
+        android:layout_height="95dp"
+        android:layout_alignEnd="@+id/flashcard_answer"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="21dp"
+        android:text="+"
+        android:textSize="70sp" />
+
 </RelativeLayout>
